@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ### Games
 
-[Game Engine Typescript]([link_to_game_1](https://github.com/HenrickyL/game-engine-ts))
+[Game Engine Typescript](https://github.com/HenrickyL/game-engine-ts)
 
 [Oblique launch simulator in python](https://github.com/HenrickyL/oblique-throw-py)
 
