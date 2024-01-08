@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### Frontend
 
-[Learning CSS - React & StyledComponents]([link_to_project_a](https://github.com/HenrickyL/learning-CSS))
+[Learning CSS - React & StyledComponents](https://github.com/HenrickyL/learning-CSS)
 
 ### Fullstack
 
