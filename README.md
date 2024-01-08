@@ -39,3 +39,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-----------------------------------
+
+## Main Areas of Expertise
+
+### Frontend
+
+[Learning CSS - React & StyledComponents]([link_to_project_a](https://github.com/HenrickyL/learning-CSS))
+
+### Fullstack
+
+[Metafit - Backend Node.js (Clean Architecture) & Mobile kotlin](https://github.com/HenrickyL/Metafit) 
+
+[Gamepedia - Backend Node.js  & Frontend React.js](https://github.com/HenrickyL/Gamepedia-ES) 
+
+[Project Z](link_to_project_z) - Description of Project Z.
+
+### Games
+
+[Game Engine Typescript]([link_to_game_1](https://github.com/HenrickyL/game-engine-ts))
+
+[Oblique launch simulator in python](https://github.com/HenrickyL/oblique-throw-py)
+
+[Game Engine C++](https://github.com/HenrickyL/game-engine-2d-cpp)
+
