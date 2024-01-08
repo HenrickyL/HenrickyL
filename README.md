@@ -54,8 +54,6 @@ Here are some ideas to get you started:
 
 [Gamepedia - Backend Node.js  & Frontend React.js](https://github.com/HenrickyL/Gamepedia-ES) 
 
-[Project Z](link_to_project_z) - Description of Project Z.
-
 ### Games
 
 [Game Engine Typescript]([link_to_game_1](https://github.com/HenrickyL/game-engine-ts))
