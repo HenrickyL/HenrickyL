@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 
 ### Frontend
 
+[Template React Project](https://github.com/HenrickyL/react-base-project)
+
 [Learning CSS - React & StyledComponents](https://github.com/HenrickyL/learning-CSS)
 
 ### Fullstack
